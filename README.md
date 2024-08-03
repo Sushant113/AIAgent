@@ -62,7 +62,7 @@ This repository allows you to design, supervise, and execute both autonomous AI 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Sushant113/AI_agent_for_SpecificTask
+   git clone https://github.com/Sushant113/AIAgent
    ```
 
 2. **Navigate to the project directory:**
